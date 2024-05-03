@@ -15,7 +15,7 @@ This project involves the development of an interactive e-commerce website dedic
 - ### Signup Page : New users can create an account to store their information and view order history.
 - ### Mon Compte Page : Registered users can login to manage their profile, view order history, and track current orders.
 - ### Contact Page : Users can use this page to get in touch with the website administrators for inquiries, support, or feedback.
-- ### Category Pages: The website offers stickers in the following categories:
+-  Category Pages: The website offers stickers in the following categories:
        - Engineering
        - Adventure Time
        - Quotes
