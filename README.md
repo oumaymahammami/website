@@ -29,4 +29,4 @@ This project involves the development of an interactive e-commerce website dedic
   - Backend: PHP
   - Database: MySQL
 ## Contributing
--Contributions to this e-commerce website project are welcome! Feel free to open issues or pull requests for enhancements, bug fixes, or additional features.
+- Contributions to this e-commerce website project are welcome! Feel free to open issues or pull requests for enhancements, bug fixes, or additional features.
