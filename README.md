@@ -16,14 +16,14 @@ This project involves the development of an interactive e-commerce website dedic
 - ### Mon Compte Page : Registered users can login to manage their profile, view order history, and track current orders.
 - ### Contact Page : Users can use this page to get in touch with the website administrators for inquiries, support, or feedback.
 - ### Category Pages: The website offers stickers in the following categories:
-       * Engineering
-       -Adventure Time
-       -Quotes
-       -Love
-       -One piece
-       -Palestine
-       -Jujutsu Kaisen
-       -Friends
+       - Engineering
+       - Adventure Time
+       - Quotes
+       - Love
+       - One piece
+       - Palestine
+       - Jujutsu Kaisen
+       - Friends
 ## Technologies Used
   - Frontend: HTML, CSS, JavaScript
   - Backend: PHP
