@@ -7,7 +7,7 @@ This project involves the development of an interactive e-commerce website dedic
 - Contributing
 
 ## Features
-- ** Home Page :** The home page introduces the website and showcases featured stickers and categories.
+- ### Home Page : The home page introduces the website and showcases featured stickers and categories.
 - ### About Page : This page provides information about the website, its mission, and the team behind it.
 - ### Boutique Page : This page displays the available stickers for users to browse and select from.
 - ### Shopping Page : Users can add selected stickers from the Boutique page to their shopping cart, view the contents of the cart, update quantities, and remove items before checkout.
@@ -15,7 +15,7 @@ This project involves the development of an interactive e-commerce website dedic
 - ### Signup Page : New users can create an account to store their information and view order history.
 - ### Mon Compte Page : Registered users can login to manage their profile, view order history, and track current orders.
 - ### Contact Page : Users can use this page to get in touch with the website administrators for inquiries, support, or feedback.
--  Category Pages: The website offers stickers in the following categories:
+- ### Category Pages: The website offers stickers in the following categories:
        - Engineering
        - Adventure Time
        - Quotes
